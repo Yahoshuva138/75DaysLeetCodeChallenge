@@ -1,51 +1,58 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0049-group-anagrams/) | Medium |
-| [0217-contains-duplicate](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
-| [0347-top-k-frequent-elements](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0347-top-k-frequent-elements/) | Medium |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0049-group-anagrams/) | Medium |
-| [0242-valid-anagram](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0049-group-anagrams/) | Medium |
-| [0217-contains-duplicate](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
-| [0347-top-k-frequent-elements](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0347-top-k-frequent-elements/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0049-group-anagrams/) | Medium |
-| [0217-contains-duplicate](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
-| [0347-top-k-frequent-elements](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0347-top-k-frequent-elements/) | Medium |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0347-top-k-frequent-elements](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0347-top-k-frequent-elements/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0347-top-k-frequent-elements](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0347-top-k-frequent-elements/) | Medium |
-## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0347-top-k-frequent-elements](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0347-top-k-frequent-elements/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0347-top-k-frequent-elements](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0347-top-k-frequent-elements/) | Medium |
-## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0347-top-k-frequent-elements](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/Python/Medium/0347-top-k-frequent-elements/) | Medium |
-<!---LeetCode Topics End-->
+# 🚀 75 Days LeetCode Challenge | Master DSA Step-by-Step
+
+> Helping beginners become confident problem solvers 🚀  
+
+![GitHub stars](https://img.shields.io/github/stars/Yahoshuva138/75DaysLeetCodeChallenge?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Yahoshuva138/75DaysLeetCodeChallenge?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Yahoshuva138/75DaysLeetCodeChallenge)
+![DSA](https://img.shields.io/badge/Focus-DSA-blue)
+![Challenge](https://img.shields.io/badge/Challenge-75Days-green)
+
+---
+
+## 📌 About This Challenge
+
+This is not just a repository — it's a **public journey of growth**.
+
+🔹 75 Days  
+🔹 75 Problems  
+🔹 Real Problem-Solving Approach  
+🔹 Beginner → Advanced  
+
+🎯 Goal:  
+To become strong in **Data Structures & Algorithms** and build real problem-solving skills for coding interviews.
+
+---
+
+## 🧠 From Confused to Confident Problem Solver
+
+If you're here, maybe you feel like:
+
+❌ "I can't solve problems on my own"  
+❌ "I always depend on solutions"  
+❌ "I don't know how to think logically"  
+❌ "Others are faster than me"  
+
+I’ve been there too.
+
+This repository is not about being perfect —  
+it's about improving **1% every day**.
+
+---
+
+## 💡 What You Will Learn Here
+
+🧠 How to break down problems step-by-step  
+🔍 How to think before coding  
+⚡ How to move from brute force → optimized solutions  
+📈 How to recognize patterns (the real skill!)  
+
+---
+
+## 🔥 My Rule
+
+> "It's okay to struggle. It's NOT okay to stop thinking."
+
+---
+
+## 📂 Repository Structure
