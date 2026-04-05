@@ -1,24 +1,13 @@
 class Solution(object):
     def searchMatrix(self, matrix, target):
-        m = len(matrix)
-        n = len(matrix[0])
+        i, j = 0, len(matrix[0]) - 1
         
-        left = 0
-        right = m * n - 1
-        
-        while left <= right:
-            mid = (left + right) // 2
-            
-            row = mid // n
-            col = mid % n
-            
-            value = matrix[row][col]
-            
-            if value == target:
+        while i < len(matrix) and j >= 0:
+            if matrix[i][j] == target:
                 return True
-            elif value < target:
-                left = mid + 1
+            elif matrix[i][j] > target:
+                j -= 1
             else:
-                right = mid - 1
-                
+                i += 1
+        
         return False
