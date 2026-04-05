@@ -56,3 +56,19 @@ it's about improving **1% every day**.
 ---
 
 ## 📂 Repository Structure
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+<!---LeetCode Topics End-->
