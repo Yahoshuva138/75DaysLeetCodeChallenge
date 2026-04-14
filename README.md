@@ -73,4 +73,20 @@ it's about improving **1% every day**.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Yahoshuva138/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
